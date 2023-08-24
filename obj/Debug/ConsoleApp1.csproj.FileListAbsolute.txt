@@ -1,0 +1,12 @@
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 09\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 09\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 09\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 09\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.dll
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 09\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.dll
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 09\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.xml
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 09\ConsoleApp1\ConsoleApp1\bin\Debug\EntityFramework.SqlServer.xml
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 09\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 09\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 09\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CopyComplete
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 09\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Angular Self paced\Phase 02\Assisgnment\DAY 09\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb
